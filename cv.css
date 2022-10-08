@@ -1,0 +1,213 @@
+
+body{
+	width: 100%;
+}
+
+#ram1{
+	width: 100%;
+	heght: 300px;
+	background-color: #1a237e;
+}
+img{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	border-radius: 50%;
+	box-shadow: 0px 0px 8px 7px 8px red;
+}
+
+#ram2{
+	display: inline-block;
+	
+	color: white;
+	text-shadow: 2px 2px 0px red;
+	
+}
+
+.ram3{
+	display: inline-block;
+	font-size: 2rem;
+	vertical-align: top;
+
+}
+.ram3 .ram4{
+	
+	margin-left: 250px;
+	text-shadow: 2px 2px 0px red;
+}
+
+.ram3 .ram4 .email{
+	color red;
+}
+b{
+	color: white;
+}
+span{
+	color: lightblue;
+}
+
+#b1{
+	color: white;
+}
+#span1{
+	color: lightcyan;
+}
+
+
+#b2{
+	color: white;
+}
+#span2{
+	color: white;
+}
+
+.ram4{
+	margin-left:50px;
+	color: white;
+}
+
+.ram6{
+	margin-left: 250px;
+	text-shadow: 2px 2px 0px red;
+	
+}
+.ram7{
+	margin-left: 250px;
+	text-shadow: 2px 2px 0px red;
+}
+
+/* main */
+.main{
+	width: 50%;
+	display: inline-block;
+	margin-right: 100px;
+	
+}
+
+#main1{
+	color: #9c27b0;
+}
+
+
+#main2{
+	display: inline-block;
+	width: 100%;
+
+}
+
+#main3{
+	font-size: 1.5rem;
+	color: black;
+}
+
+#main4{
+	font-size: 1.5rem;
+	color: black;
+}
+
+#main5{
+	font-size: 1.5rem;
+	color:  #9c27b0;
+}
+
+#main6{
+	font-size: 1.2rem;
+	color:  black;
+}
+#main8{
+	color: #9c27b0;
+
+}
+
+.main9{
+	font-size: 1.5rem;
+	color: black;
+	
+}
+
+#social{
+	font-size: 1.5rem;
+	color:  #9c27b0;
+}
+
+.so{
+	font-size: 2rem;
+	color: blue;
+}
+
+.a{
+	font-size: 1.7rem;
+}
+
+
+/* aside */
+#aside{
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#aside1{
+	color:  #9c27b0;;
+}
+
+.rama{
+	width: 100%;
+	background-color: tan;
+	
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+.rama1{
+	width: 85%;
+	color: white;
+	text-align: right;
+	margin-right: 5px;
+	background-color: red;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+
+}
+
+
+.rama2{
+	width: 60%;
+	color: white;
+	text-align: right;
+	margin-right: 5px;
+	background-color: red;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+.rama3{
+	width: 65%;
+	color: white;
+	text-align: right;
+	margin-right: 5px;
+	background-color: red;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	
+}
+
+
+.rama4{
+	width: 50%;
+	color: white;
+	text-align: right;
+	margin-right: 5px;
+	background-color: red;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	
+}
